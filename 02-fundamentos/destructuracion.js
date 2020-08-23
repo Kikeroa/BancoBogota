@@ -7,6 +7,4 @@ let deadpool = {
     }
 };
 
-let { nombre, apellido, poder } = deadpool;
-
 console.log(nombre, apellido, poder);
